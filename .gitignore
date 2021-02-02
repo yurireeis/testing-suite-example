@@ -1,0 +1,10 @@
+# python environment
+.env/
+__pycache__
+
+# ide files
+.vscode
+
+# logs
+*.log
+*.output

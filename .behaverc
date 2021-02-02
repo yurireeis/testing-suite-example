@@ -1,0 +1,3 @@
+[behave]
+format=json
+paths=tests/e2e
