@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/80939f1fcc2f414da513b6b7e3d2e197)](https://app.codacy.com/gh/yurireeis/testing-suite-example?utm_source=github.com&utm_medium=referral&utm_content=yurireeis/testing-suite-example&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6c36e2734e81411a9ff93b59da255b83)](https://www.codacy.com/gh/yurireeis/testing-suite-example/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yurireeis/testing-suite-example&amp;utm_campaign=Badge_Grade)
 
 # Shipay Testing Suite
