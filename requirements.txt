@@ -10,3 +10,7 @@ requests==2.12.4
 selenium
 six==1.10.0
 wrapt==1.10.8
+Flask==1.1.2
+Flask-Cors==3.0.9
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.2

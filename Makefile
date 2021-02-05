@@ -6,3 +6,9 @@ api:
 
 e2e:
 	behave -v
+
+build:
+	docker build . -t yurireeis/just-tests:latest
+
+run:
+	docker run yurireeis/just-tests:latest $(ARGS)
